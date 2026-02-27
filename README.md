@@ -1,4 +1,4 @@
-# Ramesside-Star_Clocks
+# Ramesside-Star-Clocks
 
 The Ramesside Star Clocks (RSC) are ancient Egyptian astronomical tables painted 
 into the tombs of Ramses VI, VII, and IX in the Valley of the Kings in Luxor, Egypt, 
